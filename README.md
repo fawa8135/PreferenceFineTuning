@@ -30,9 +30,9 @@
 
 ## Workflow
 
-1. Train SFT model from Qwen basemodel
+1. Train SFT model from Qwen base model
 
-2. Merge SFT adapters with basemodel
+2. Merge SFT adapters with base model
 
 3. Train RM model from merged model
 
