@@ -20,7 +20,7 @@ import math
 basemodel_name = "../../models/huggingface_models/qwen/Qwen3-4B-Instruct-2507" # Qwen3-30B-A3B-Instruct-2507
 basemodel = AutoModelForCausalLM.from_pretrained(
     basemodel_name, 
-#    quantization_config = bnb_config,
+#   quantization_config = bnb_config,
     device_map="cuda")
 
 # Tokenizer
