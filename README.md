@@ -6,7 +6,7 @@
 
 `Curves` contains the plots saved from tensorboard
 
-`Datasets` contains the human and AI feedback datasets
+`Datasets` contains the summarize from feedback datasets
 
 `Outputs` contains all data reported to tensorboard
 
