@@ -8,25 +8,27 @@
 
 `Datasets` contains the summarize from feedback datasets
 
+`Distributions` contains plots of subreddit distributions
+
 `Outputs` contains all data reported to tensorboard
 
-`AIFeedback` code to create AI feedback dataset
+`AIFeedback.py` code to create AI feedback dataset
 
-`Curves**` code to create the plots
+`Curves**.py` code to create the plots
 
-`Data` code for data analysis
+`DPO.py` code for DPO
 
-`DPO` code for DPO
+`Data.py` code for data analysis
 
-`Inference` code to generate and evaluate summaries
+`Inference.py` code to generate and evaluate summaries
 
-`Merge` code to merge LoRA adapters with base model
+`Merge.py` code to merge LoRA adapters with base model
 
-`RL` code for reinforcement learning stage
+`RL.py` code for reinforcement learning stage
 
-`RM` code for reward modeling stage
+`RM.py` code for reward modeling stage
 
-`SFT` code for supervised fine-tuning stage
+`SFT.py` code for supervised fine-tuning stage
 
 ## Workflow
 
